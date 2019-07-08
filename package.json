@@ -1,0 +1,15 @@
+{
+  "name": "@creidhne/eslint-config-airbnb-paulmac",
+  "version": "0.1.0",
+  "description": "Customised airbnb-base config for eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["eslint", "airbnb", "custom rules"],
+  "author": "paulmac",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.2.0"
+  }
+}
